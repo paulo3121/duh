@@ -1,5 +1,5 @@
 defmodule Duh do
-  def getProsa do
+  def getProsaa do
     IO.puts("Oioi1")
   end
 
