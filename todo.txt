@@ -1,0 +1,7 @@
+configurar emacs para elixir
+
+criar endpoint que recebe um numero de devolve um poema de fernando pessoa
+
+criar imagem back docker que sobe a aplicacao
+
+criar imagem DB docker que armazena os poemas acessados na base e em um txt em um volume docker
